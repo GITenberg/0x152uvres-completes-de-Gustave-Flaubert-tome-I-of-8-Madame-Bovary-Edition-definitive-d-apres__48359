@@ -1,4 +1,8 @@
 _repo: 0x152uvres-completes-de-Gustave-Flaubert-tome-I-of-8-Madame-Bovary-Edition-definitive-d-apres__48359
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48359-h/images/cover.jpg
 creator:
   author:
     agent_name: Flaubert, Gustave
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/574
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48359#0x152uvres-completes-de-Gustave-Flaubert-tome-I-of-8-Madame-Bovary-Edition-definitive-d-apres_
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2015-02-25'
 gutenberg_type: Text
