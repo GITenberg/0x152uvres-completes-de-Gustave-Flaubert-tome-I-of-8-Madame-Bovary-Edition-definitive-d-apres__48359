@@ -23,6 +23,8 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Œuvres complètes de Gustave Flaubert, tome I (of 8)
 
   Madame Bovary; Édition définitive d''après les manuscrits originaux'
